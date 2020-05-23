@@ -9,13 +9,15 @@ Access CMIP5
         :target: https://pypi.python.org/pypi/acccmip5
 
 
-``acccmip5`` package can access CMIP5 database.
+``acccmip5`` package can access CMIP5 database. If you are familiar with ``acccmip6``, this is basically the same but for CMIP5 database. Remember this package hasn't been tested as heavily as ``acccmip6``. Post any bugs you may find.
 
 * GitHub repo: https://github.com/TaufiqHassan/acccmip5
 
 Usage
 -----
-- Follow: https://github.com/TaufiqHassan/acccmip6
+- Follow the installation and usage here: https://github.com/TaufiqHassan/acccmip6
+- You can also follow the documentation here: https://acccmip6.readthedocs.org
+- Just use ``acccmip5`` instead of ``acccmip6``!
 
 License
 -------
