@@ -1,12 +1,12 @@
 ===============================
-Access Cmip6
+Access CMIP5
 ===============================
 
-.. image:: https://img.shields.io/travis/TaufiqHassan/acccmip6.svg
-        :target: https://travis-ci.org/TaufiqHassan/acccmip6
+.. image:: https://img.shields.io/travis/TaufiqHassan/acccmip5.svg
+        :target: https://travis-ci.org/TaufiqHassan/acccmip5
 
-.. image:: https://img.shields.io/pypi/v/acccmip6.svg
-        :target: https://pypi.python.org/pypi/acccmip6
+.. image:: https://img.shields.io/pypi/v/acccmip5.svg
+        :target: https://pypi.python.org/pypi/acccmip5
 
 
 ``acccmip5`` package can access CMIP5 database.
